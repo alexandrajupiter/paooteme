@@ -1,0 +1,3 @@
+/home/utzu/Desktop/paoooo/dir/CMakeFiles/rebuild_cache.dir
+/home/utzu/Desktop/paoooo/dir/CMakeFiles/edit_cache.dir
+/home/utzu/Desktop/paoooo/dir/CMakeFiles/paoooo.dir

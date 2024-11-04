@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/paoooo.dir/src/main.cpp.o CMakeFiles/paoooo.dir/src/Animal.cpp.o  -o paoooo 
